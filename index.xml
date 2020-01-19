@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Where ideas go to die</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Where ideas go to die</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 18 Jan 2020 19:18:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guitars, physics, and how I relate to these.</title>
+      <link>https://example.org/2020/01/18/guitars-physics-and-how-i-relate-to-these./</link>
+      <pubDate>Sat, 18 Jan 2020 19:18:04 +0000</pubDate>
+      
+      <guid>https://example.org/2020/01/18/guitars-physics-and-how-i-relate-to-these./</guid>
+      <description>The insanity of tuning a guitar with a Floyd-Rose bridge This is a very long story about how I found out that the way musical instruments are designed is influenced by physics. This is something that sounds immediately obvious to everyone but me (I am not smart okay?), and this tells me something about myself.
+Part 1: How I got here I had an electric guitar laying around that I hadn&#39;t touched in years.</description>
+    </item>
+    
+  </channel>
+</rss>
